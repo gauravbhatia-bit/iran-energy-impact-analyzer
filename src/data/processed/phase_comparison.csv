@@ -1,0 +1,5 @@
+phase,n_days,de_price_eur_mwh_mean,de_price_eur_mwh_std,de_price_eur_mwh_pct_change,ttf_eur_mwh_mean,ttf_eur_mwh_std,ttf_eur_mwh_pct_change,brent_usd_bbl_mean,brent_usd_bbl_std,brent_usd_bbl_pct_change
+pre_conflict,150,68.43,9.49,0.0,39.95,3.26,0.0,78.73,2.66,0.0
+acute_shock,15,102.94,18.37,50.4,52.67,7.79,31.8,91.94,2.5,16.8
+sustained_crisis,24,128.04,11.18,87.1,61.83,5.09,54.7,102.64,3.08,30.4
+post_ceasefire,23,114.33,9.96,67.1,58.18,3.61,45.6,96.98,3.11,23.2

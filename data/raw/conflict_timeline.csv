@@ -1,0 +1,8 @@
+date,event,severity,category
+2026-02-28,Conflict starts,critical,military
+2026-03-02,Oil & gas spike overnight,high,energy
+2026-03-04,Qatar LNG facility attacked,critical,infrastructure
+2026-03-15,TTF gas price doubles,high,energy
+2026-03-20,Brent crude approaches $90/bbl,high,energy
+2026-04-08,Ceasefire announced,medium,diplomatic
+2026-04-15,Partial LNG supply restored,medium,energy
